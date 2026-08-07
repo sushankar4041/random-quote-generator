@@ -46,4 +46,4 @@ A clean, minimal quote generator app built with an iOS-style glassmorphism UI. D
 
 ## Author
 
-Built as a university assignment project.
+Built as an internship assignment project.
