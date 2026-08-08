@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Random Quote Generator",
+    "slug": "random-quote-generator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic"
+  }
+}
